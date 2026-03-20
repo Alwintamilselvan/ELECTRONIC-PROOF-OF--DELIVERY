@@ -2,7 +2,7 @@
 
 LogiTrack is a modern, Jetpack Compose-based Android application designed for delivery drivers to manage their shipments, capture proof of delivery with geo-tagging, and maintain real-time communication with management.
 
-## Technical Stack
+## 🚀 Technical Stack
 
 *   **Language**: [Kotlin](https://kotlinlang.org/)
 *   **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose) with Material Design 3
@@ -16,7 +16,7 @@ LogiTrack is a modern, Jetpack Compose-based Android application designed for de
 *   **Image Loading**: [Coil](https://coil-kt.github.io/coil/) for asynchronous image processing.
 *   **Navigation**: Jetpack Navigation Compose.
 
-##  Key Features
+## ✨ Key Features
 
 *   **Driver Dashboard**: Real-time statistics including today's total deliveries, pending tasks, and completion progress.
 *   **Tamil Nadu Logistics Focus**: Pre-configured with major industrial hubs like Sriperumbudur, Oragadam, and Ennore Port.
