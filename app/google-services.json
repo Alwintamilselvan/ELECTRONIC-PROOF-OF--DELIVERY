@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826725874597",
+    "project_id": "electronicpod-b7b30",
+    "storage_bucket": "electronicpod-b7b30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826725874597:android:ad80559a32d3d2d1ccc64c",
+        "android_client_info": {
+          "package_name": "com.ats.epodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXj-xGeP3U8f0q-RAfMxAdzZ3wog3zWVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
